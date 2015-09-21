@@ -60,5 +60,5 @@ You may change the value by clicking radio button (for supp) and slider bar (for
 ## Sample screen
 This is the sample screen for the predictor apps
 
-![](AppsScreenshot.png)
+![](AppsScreenshot.PNG)
 
