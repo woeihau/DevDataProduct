@@ -8,7 +8,7 @@ This presentation is part of coursera Develop Data Product course. The project c
 1. Shiny app
 2. R Presentation describing Shiny apps.
 
-It is hosted on [ShinyApps](http://www.google.com).
+It is hosted on [ShinyApps](https://woeihau.shinyapps.io/DevDataProduct).
 
 R Presentation can be found on [RPubs](http://rpubs.com/woeihau/110774).
 
