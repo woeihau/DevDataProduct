@@ -27,8 +27,9 @@ p("This apps is developed for Coursera Develop Data Product course."),
 p("This app predicts the tooth length based on its supplement, and dosage."),
 p("I use ToothGrowth dataset for this prediction."),
 p("It is hosted on ShinyApps"),
-p("R Presentation can be found on RPubs"),
-p("Source code for UI.R and server.R can be found on GitHub repository")
+p("R Presentation can be found on "), tags$a(href="http://rpubs.com/woeihau/110774", "RPubs"),
+p("Source code for UI.R and server.R can be found on GitHub repository"),
+p("Refer to my presentation for the link to various URL.")
         )
     )
 ))

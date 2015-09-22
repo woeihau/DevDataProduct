@@ -2,14 +2,21 @@
 title       : Tooth Growth length predictor
 subtitle    : Predict tooth growth length based on supp and dose
 author      : Low Woei Hau
+date        : 22 Sep 2015
+transition  : rotate
 job         : Coursera Develop Data Product
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow      # 
-widgets     : []            # {mathjax, quiz, bootstrap}
-mode        : selfcontained # {standalone, draft}
+#framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+#highlighter : highlight.js  # {highlight.js, prettify, highlight}
+#hitheme     : tomorrow      # 
+#widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : standalone # {selfcontained,standalone, draft}
 knit        : slidify::knit2slides
+output: 
+  html_document: 
+    theme: readable
 ---
+
+
 ## Introduction
 
 This presentation is part of coursera Develop Data Product course. The project comes with two parts:
@@ -17,11 +24,11 @@ This presentation is part of coursera Develop Data Product course. The project c
 1. Shiny app
 2. R Presentation describing Shiny apps.
 
-It is hosted on [ShinyApps](http://www.google.com).
+It is hosted on [ShinyApps](https://woeihau.shinyapps.io/DevDataProduct).
 
-R Presentation can be found on [RPubs](http://www.google.com).
+R Presentation can be found on [RPubs](http://rpubs.com/woeihau/110774).
 
-Source code for UI.R and server.R can be found on [my GitHub repository](http://www.google.com).
+Source code for UI.R and server.R can be found on [my GitHub repository](https://github.com/woeihau/DevDataProduct).
 
 ---
 
