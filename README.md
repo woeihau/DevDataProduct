@@ -1,7 +1,12 @@
 # Coursera-DevelopDataProduct
 
+Welcome to Tooth Growth prediction app.
+
 This is a simple application showing the possible tooth growth length based on two input: supplement & dosage.
+
 You may change the value by clicking radio button (for supp) and slider bar (for dose).
+
+I use ToothGrowth dataset for this prediction.
 
 This presentation is part of coursera Develop Data Product course. The project comes with two parts:
 
