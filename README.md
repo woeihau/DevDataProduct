@@ -10,6 +10,6 @@ This presentation is part of coursera Develop Data Product course. The project c
 
 It is hosted on [ShinyApps](http://www.google.com).
 
-R Presentation can be found on [RPubs](http://www.google.com).
+R Presentation can be found on [RPubs](http://rpubs.com/woeihau/110774).
 
 Source code for UI.R and server.R can be found on [my GitHub repository](https://github.com/woeihau/DevDataProduct).
